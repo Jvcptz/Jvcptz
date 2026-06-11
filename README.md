@@ -4,7 +4,7 @@ Markdown
 # 🪐 Pisaia | Cyber Security Pentest & Developer
 
 <div align="center">
- <div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/C76M0L4m9eUAAAAC/monkey-developer.gif" alt="Monkey Developer" width="60%" />
 </div>
 
 ---
