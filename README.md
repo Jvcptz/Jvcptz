@@ -4,7 +4,7 @@ Markdown
 # 🪐 Pisaia | Cyber Security Pentest & Developer
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pisaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" alt="Cyber Security Animation" width="100%" max-width="700px" />
 </div>
 
 ---
