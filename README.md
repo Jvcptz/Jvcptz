@@ -3,9 +3,7 @@ Markdown
 
 # 🪐 Pisaia | Cyber Security Pentest & Developer
 
-<div align="center">
-<img src="https://media.tenor.com/C76M0L4m9eUAAAAC/monkey-developer.gif" alt="Monkey Developer" width="60%" />
-</div>
+![Monkey Developer](https://media.tenor.com/C76M0L4m9eUAAAAC/monkey-developer.gif)
 
 ---
 
