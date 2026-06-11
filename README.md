@@ -1,6 +1,3 @@
-Markdown
-
-
 # 🪐 Pisaia | Cyber Security Pentest & Developer
 
 ![Monkey Developer](https://media.tenor.com/C76M0L4m9eUAAAAC/monkey-developer.gif)
